@@ -1,0 +1,25 @@
+{
+  "name": "narberal",
+  "version": "1.0.0",
+  "description": "Canvas based spreadsheet view engine",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liriliri/narberal.git"
+  },
+  "author": "redhoodsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liriliri/narberal/issues"
+  },
+  "homepage": "https://github.com/liriliri/narberal#readme",
+  "devDependencies": {
+    "ts-loader": "^4.0.1",
+    "typescript": "^2.7.2",
+    "webpack": "^4.1.0",
+    "webpack-cli": "^2.0.10"
+  }
+}
