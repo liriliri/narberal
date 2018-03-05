@@ -10,7 +10,9 @@
                 "single",
                 "avoid-escape"
             ]
-        }
+        },
+        "one-line": false,
+        "no-trailing-whitespace": false
     },
     "rulesDirectory": []
 }
