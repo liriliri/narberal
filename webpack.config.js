@@ -17,7 +17,7 @@ module.exports = {
     output: {
         filename: 'narberal.js',
         path: path.resolve(__dirname, 'dist'),
-        library: ['yuri'],
+        library: 'narberal',
         libraryTarget: 'umd',
         globalObject: 'this'
     }

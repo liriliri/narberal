@@ -1,1 +1,1 @@
-console.log('test');
+export {Spread} from './Spread';
