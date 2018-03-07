@@ -6,6 +6,10 @@ export class Sheet
     {
         this.name = name;
     }
+    private init() 
+    {
+        
+    }
     fromJSON() 
     {
 

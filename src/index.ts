@@ -1,2 +1,1 @@
-export {Spread} from './Spread';
-export {Sheet} from './Sheet';
+export {Spreadsheet} from './Spreadsheet';
